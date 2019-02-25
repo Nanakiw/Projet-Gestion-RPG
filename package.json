@@ -1,0 +1,23 @@
+{
+  "name": "projet-gestion-rpg",
+  "version": "0.0.1",
+  "description": "a RPG Gestion Game\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nanakiw/Projet-Gestion-RPG.git"
+  },
+  "author": "Nanaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nanakiw/Projet-Gestion-RPG/issues"
+  },
+  "homepage": "https://github.com/Nanakiw/Projet-Gestion-RPG#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
